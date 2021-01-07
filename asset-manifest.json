@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/use-mongo-watcher/static/css/main.2c6a48fe.chunk.css",
+    "main.js": "/use-mongo-watcher/static/js/main.85b71c01.chunk.js",
+    "main.js.map": "/use-mongo-watcher/static/js/main.85b71c01.chunk.js.map",
+    "runtime-main.js": "/use-mongo-watcher/static/js/runtime-main.4044932f.js",
+    "runtime-main.js.map": "/use-mongo-watcher/static/js/runtime-main.4044932f.js.map",
+    "static/js/2.30f93a02.chunk.js": "/use-mongo-watcher/static/js/2.30f93a02.chunk.js",
+    "static/js/2.30f93a02.chunk.js.map": "/use-mongo-watcher/static/js/2.30f93a02.chunk.js.map",
+    "index.html": "/use-mongo-watcher/index.html",
+    "precache-manifest.c10d11fafeae596a787b47c1e1814ed2.js": "/use-mongo-watcher/precache-manifest.c10d11fafeae596a787b47c1e1814ed2.js",
+    "service-worker.js": "/use-mongo-watcher/service-worker.js",
+    "static/css/main.2c6a48fe.chunk.css.map": "/use-mongo-watcher/static/css/main.2c6a48fe.chunk.css.map",
+    "static/js/2.30f93a02.chunk.js.LICENSE.txt": "/use-mongo-watcher/static/js/2.30f93a02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4044932f.js",
+    "static/js/2.30f93a02.chunk.js",
+    "static/css/main.2c6a48fe.chunk.css",
+    "static/js/main.85b71c01.chunk.js"
+  ]
+}
