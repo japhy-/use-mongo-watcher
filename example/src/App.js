@@ -1,12 +1,14 @@
-import React from 'react'
-import { useMyHook } from 'use-mongo-watcher'
+import React from 'react';
+import { useMongoWatcher } from 'use-mongo-watcher';
 
 const App = () => {
-  const example = useMyHook()
+  const example = useMongoWatcher({});
+
   return (
     <div>
-      {example}
+      {JSON.stringify(example)}
     </div>
-  )
+  );
 }
-export default App
+
+export default App;

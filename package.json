@@ -1,5 +1,5 @@
 {
-  "name": "use-mongo-watcher",
+  "name": "@ithreat/use-mongo-watcher",
   "version": "1.0.0",
   "description": "",
   "author": "japhy-",
@@ -66,5 +66,8 @@
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-url": "^2.1.0"
+  },
+  "dependencies": {
+    "@ithreat/use-mounted": "^1.0.1"
   }
 }
