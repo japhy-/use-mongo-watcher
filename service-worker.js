@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/use-mongo-watcher/precache-manifest.391f81ea4b900cf403165bb335f129f3.js"
+  "/use-mongo-watcher/precache-manifest.d4fac116b585d62755b72f24e005cce8.js"
 );
 
 self.addEventListener('message', (event) => {

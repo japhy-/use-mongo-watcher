@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e8b0b5118f3654abfe3cde9e8eaa4db",
+    "revision": "854d80115bb6d3db19b48e62e35b2eb7",
     "url": "/use-mongo-watcher/index.html"
   },
   {
-    "revision": "095d2f0e2cb6d0866d3d",
+    "revision": "1110f45d89bf7a5507d9",
     "url": "/use-mongo-watcher/static/css/main.2c6a48fe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/use-mongo-watcher/static/js/2.30f93a02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "095d2f0e2cb6d0866d3d",
-    "url": "/use-mongo-watcher/static/js/main.0810e9be.chunk.js"
+    "revision": "1110f45d89bf7a5507d9",
+    "url": "/use-mongo-watcher/static/js/main.b385f88a.chunk.js"
   },
   {
     "revision": "13d46641c203d6af86b1",
